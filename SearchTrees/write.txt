@@ -1,0 +1,100 @@
+2063092;Callum Campbell;20-05-1993;Global University of Great Britain;IR;International Relations;2018
+1064989;Woodrow Schneider;17-09-1997;Global University of United States;ELL;English Language and Literature;2016
+3059703;Justus Wuckert;12-11-1995;Global University of Australia;GLL;German Language and Literature;2018
+2082031;Eden Walker;24-11-1995;Global University of Great Britain;ELL;English Language and Literature;2016
+9065345;Viktória Ringlóciová;30-07-1993;Global University of Slovakia;CE;Civil Engineering;2020
+7090334;Nikola Adamić;22-02-1992;Global University of Croatia;AM;Applied Mathematics;2016
+1053337;Hershel Breitenberg;26-05-1997;Global University of United States;BUS;Business;2020
+4048962;Jörn Wieland;16-10-1992;Global University of Germany;GBE;Genetics and Bioengineering;2016
+11055905;Фаина Воронцов;01-06-1997;Global University of Russia;GLL;German Language and Literature;2017
+7060127;Josipa Abramović;24-12-1994;Global University of Croatia;IT;Information Technologies;2017
+8041881;�?代 原田;11-02-1997;Global University of Japan;BUS;Business;2017
+10037629;Ingela Lundin;19-09-1992;Global University of Sweden;GLL;German Language and Literature;2016
+40237;Annelies Hirsch;05-03-1992;Global University of Germany;GBE;Genetics and Bioengineering;2017
+3031148;Ruthie Streich;04-11-1996;Global University of Australia;CE;Civil Engineering;2019
+5054335;Jean Delaunay;31-05-1997;Global University of France;ARC;Architecture;2017
+8053059;花�? 宇野;11-09-1997;Global University of Japan;ARC;Architecture;2019
+11034865;Фаина Ширяев;30-09-1993;Global University of Russia;MAN;Management;2019
+11074161;Нонна Пе�?товa;14-07-1994;Global University of Russia;AP;Applied Physics;2017
+1052828;Vicente Jast;11-12-1995;Global University of United States;CE;Civil Engineering;2018
+8086466;太一 渚;03-05-1996;Global University of Japan;AM;Applied Mathematics;2019
+10049475;Aron Ek;12-01-1995;Global University of Sweden;ARC;Architecture;2020
+110934;Елизавета Мельниковa;07-02-1993;Global University of Russia;DCPR;Digital Communications and Public Relations;2017
+5083634;René Delannoy;01-07-1993;Global University of France;ELL;English Language and Literature;2016
+2012545;Peter Lloyd;08-04-1995;Global University of Great Britain;IT;Information Technologies;2019
+1078158;Stacey Schiller;23-06-1995;Global University of United States;ELL;English Language and Literature;2018
+2035914;Dean Parker;07-08-1992;Global University of Great Britain;EEE;Electrical and Electronics Engineering;2017
+3031858;Anne Borer;01-04-1993;Global University of Australia;ARC;Architecture;2016
+9021894;František Sadlo�?ová;21-09-1993;Global University of Slovakia;IT;Information Technologies;2018
+1073788;Earl Weissnat;01-05-1995;Global University of United States;IT;Information Technologies;2018
+10072159;Anna-Lisa Åberg;27-11-1995;Global University of Sweden;GDM;Graphic Design and Multimedia;2016
+6030670;Dario Campos;08-11-1992;Global University of Spain;CE;Civil Engineering;2019
+11050306;Геннадий Ларионовa;22-12-1994;Global University of Russia;GLL;German Language and Literature;2020
+5027938;Simone Guillot;05-01-1995;Global University of France;CE;Civil Engineering;2020
+3040821;Kristin Kilback;17-10-1997;Global University of Australia;MAN;Management;2016
+303376;Emie Dare;01-05-1997;Global University of Australia;MAN;Management;2017
+8069295;�? 藤本;04-04-1996;Global University of Japan;AM;Applied Mathematics;2017
+10025590;Aino Hansson;27-08-1992;Global University of Sweden;BUS;Business;2016
+8044196;康�? 加藤;18-04-1992;Global University of Japan;MAN;Management;2020
+7068716;Jurica Dragović;07-08-1996;Global University of Croatia;DCPR;Digital Communications and Public Relations;2020
+1025880;Edd Jast;01-07-1997;Global University of United States;IR;International Relations;2020
+3024755;Rico Kilback;05-08-1993;Global University of Australia;EEE;Electrical and Electronics Engineering;2019
+4062782;Saskia Otto;03-07-1992;Global University of Germany;GDM;Graphic Design and Multimedia;2017
+2069151;Kirsten Patel;01-02-1993;Global University of Great Britain;GBE;Genetics and Bioengineering;2020
+5018002;Marc Brunet;10-05-1994;Global University of France;CS;Computer Science;2019
+7089866;Vanja Nikolić;05-09-1997;Global University of Croatia;ELL;English Language and Literature;2016
+603555;Vega Loera;10-08-1992;Global University of Spain;AM;Applied Mathematics;2018
+6032620;Sergio Cortés;04-07-1992;Global University of Spain;CS;Computer Science;2017
+9051961;Marcela Murčová;13-07-1993;Global University of Slovakia;IR;International Relations;2016
+10040547;Ole Lund;23-09-1997;Global University of Sweden;DCPR;Digital Communications and Public Relations;2016
+9029449;Sára Hrdá;10-05-1995;Global University of Slovakia;DCPR;Digital Communications and Public Relations;2017
+6016714;Elsa Esparza;25-11-1997;Global University of Spain;EEE;Electrical and Electronics Engineering;2016
+10027369;Thor Sjöberg;10-03-1994;Global University of Sweden;GDM;Graphic Design and Multimedia;2016
+6033483;Rayan Gamboa;29-08-1993;Global University of Spain;MAN;Management;2019
+10041805;Pär Jönsson;25-10-1993;Global University of Sweden;CE;Civil Engineering;2017
+9078403;Milan Murčová;31-01-1992;Global University of Slovakia;GLL;German Language and Literature;2016
+8035743;太一 宮沢;09-12-1992;Global University of Japan;ARC;Architecture;2018
+9070734;Lea Kováč;15-12-1994;Global University of Slovakia;ARC;Architecture;2020
+110822;Нелли К�?ликов;18-05-1996;Global University of Russia;IT;Information Technologies;2019
+704383;Monika Abramović;26-01-1992;Global University of Croatia;CS;Computer Science;2016
+10029970;Anna-Greta Dahlberg;22-03-1997;Global University of Sweden;AM;Applied Mathematics;2019
+5050718;Guy Leclerc;14-03-1993;Global University of France;CS;Computer Science;2017
+3057105;Melody Pouros;15-05-1997;Global University of Australia;ELL;English Language and Literature;2019
+2020255;Lucas Young;23-06-1993;Global University of Great Britain;EEE;Electrical and Electronics Engineering;2020
+4015800;Viktor Michel;17-05-1996;Global University of Germany;GLL;German Language and Literature;2018
+4066807;Auguste Stein;13-08-1992;Global University of Germany;GDM;Graphic Design and Multimedia;2018
+3059956;Reginald Koss;23-01-1994;Global University of Australia;DCPR;Digital Communications and Public Relations;2019
+1005739;Vilhelm Berggren;04-10-1993;Global University of Sweden;ARC;Architecture;2020
+10054945;Juliana Falk;11-07-1996;Global University of Sweden;CS;Computer Science;2019
+110693;Бори�? Лихачёв;28-03-1997;Global University of Russia;CS;Computer Science;2019
+9067993;Jaromír Zeman;21-05-1993;Global University of Slovakia;EEE;Electrical and Electronics Engineering;2017
+11032095;Кирилл Кала�?никовa;18-11-1997;Global University of Russia;MAN;Management;2020
+5060820;Paul Leveque;19-10-1997;Global University of France;CE;Civil Engineering;2020
+6016200;Elsa Asensio;29-05-1993;Global University of Spain;ELL;English Language and Literature;2020
+9025527;Tamara Horák;22-12-1994;Global University of Slovakia;GLL;German Language and Literature;2017
+7053104;Nikola Babić;23-05-1997;Global University of Croatia;GDM;Graphic Design and Multimedia;2017
+3014455;Adell Towne;29-09-1993;Global University of Australia;AP;Applied Physics;2018
+7080565;Barbara Knežević;07-10-1994;Global University of Croatia;AM;Applied Mathematics;2020
+11060598;�?нтон Давыдовa;28-09-1995;Global University of Russia;BUS;Business;2017
+2056748;Vanessa Griffiths;26-10-1995;Global University of Great Britain;CE;Civil Engineering;2017
+1009818;Sanfrid Larsson;16-08-1993;Global University of Sweden;DCPR;Digital Communications and Public Relations;2019
+11027733;Платон Ефремов;14-06-1997;Global University of Russia;IR;International Relations;2017
+3026566;Sydney Crist;13-12-1997;Global University of Australia;ARC;Architecture;2017
+1085138;Dorothy Hilpert;05-06-1993;Global University of United States;BUS;Business;2019
+7018658;Karlo Vuković;22-09-1997;Global University of Croatia;CS;Computer Science;2019
+7017313;Maša Dragić;01-10-1997;Global University of Croatia;DCPR;Digital Communications and Public Relations;2017
+4042127;Tobias Petersen;01-05-1995;Global University of Germany;MAN;Management;2016
+9035923;Tamara Langoš;26-01-1995;Global University of Slovakia;AP;Applied Physics;2017
+5068872;Robert Raymond;18-02-1994;Global University of France;CS;Computer Science;2016
+704300;Katja Župan;25-04-1993;Global University of Croatia;GDM;Graphic Design and Multimedia;2016
+11037331;Роман Стрелковa;18-03-1996;Global University of Russia;ARC;Architecture;2019
+11055733;Нонна Макаровa;13-06-1992;Global University of Russia;ARC;Architecture;2020
+306348;Teresa Boyer;07-02-1992;Global University of Australia;GLL;German Language and Literature;2019
+2045556;Linda Walsh;11-05-1992;Global University of Great Britain;IR;International Relations;2020
+3059131;Nathanial Schmeler;23-07-1992;Global University of Australia;ARC;Architecture;2018
+2070356;Oliver Bailey;01-01-1997;Global University of Great Britain;DCPR;Digital Communications and Public Relations;2017
+8025017;篤司 松本;05-03-1994;Global University of Japan;IR;International Relations;2019
+906578;Severín Kubá�?ová;18-04-1993;Global University of Slovakia;BUS;Business;2020
+2014137;Millie White;25-08-1994;Global University of Great Britain;IT;Information Technologies;2020
+9064355;Lesana Kolník;16-11-1995;Global University of Slovakia;AP;Applied Physics;2018
+2047082;Sarah Phillips;08-09-1992;Global University of Great Britain;IR;International Relations;2018
